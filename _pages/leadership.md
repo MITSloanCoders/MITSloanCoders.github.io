@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
 permalink: '/leadership/'
 title: "Leadership"
 ---
 
-Leadership Page
+### Jared Johnson
+
+### Adam Klein
