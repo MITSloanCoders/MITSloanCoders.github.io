@@ -1,7 +1,12 @@
 ---
-layout: archive
+layout: default
 permalink: '/blog/'
 title: "Blog"
 ---
 
-{% for post in site.posts %} {% include post-list.html %} {% endfor %}
+
+<div class="tiles">
+{% for post in site.posts %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->

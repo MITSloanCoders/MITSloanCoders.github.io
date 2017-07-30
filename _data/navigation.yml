@@ -3,7 +3,7 @@
 - title: Home
   url: /
   excerpt: "See the latest posts from the MIT Sloan Coders Club"
-  image:
+  image: 'sloan-logo-reverse.png'
 
 - title: Sign Up
   url: /signup/
@@ -12,17 +12,17 @@
 
 - title: Calendar
   url: /calendar/
-  excerpt: "Sign up for Sloan Coders Club"
+  excerpt: "See our scheduled events"
   image:
 
 - title: Resources
   url: /resources/
-  excerpt: "Sign up for Sloan Coders Club"
+  excerpt: "Coding resources and links"
   image:
 
 - title: Leadership
   url: /leadership/
-  excerpt: "Sign up for Sloan Coders Club"
+  excerpt: "Current Coders Club Leadership"
   image:
 
 - title: Blog

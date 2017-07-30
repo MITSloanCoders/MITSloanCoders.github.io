@@ -1,7 +1,11 @@
 ---
-layout: archive
+layout: default
 permalink: /updates/
 title: "Latest Updates"
 ---
 
-{% for post in site.categories.updates %} {% include post-list.html %} {% endfor %}
+<div class="tiles">
+{% for post in site.categories.updates %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
