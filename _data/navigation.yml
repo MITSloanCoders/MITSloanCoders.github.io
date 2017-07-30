@@ -1,0 +1,31 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt: "See the latest posts from the MIT Sloan Coders Club"
+  image:
+
+- title: Sign Up
+  url: /signup/
+  excerpt: "Sign up for Sloan Coders Club"
+  image:
+
+- title: Calendar
+  url: /calendar/
+  excerpt: "Sign up for Sloan Coders Club"
+  image:
+
+- title: Resources
+  url: /resources/
+  excerpt: "Sign up for Sloan Coders Club"
+  image:
+
+- title: Leadership
+  url: /leadership/
+  excerpt: "Sign up for Sloan Coders Club"
+  image:
+
+- title: Blog
+  url: /blog/
+  excerpt: "See all Sloan Coders Club Posts"
+  image:
