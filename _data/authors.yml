@@ -4,7 +4,10 @@ jared_johnson:
   name: Jared Johnson
   web: http://jared-johnson.com
   email: jrjohns@mit.edu
-  bio: "MBA '19"
+  bio:
+    MBA '19
+    <br>
+    <a href='http://jared-johnson.com'>jared-johnson.com</a>
   avatar: jared-johnson.jpg
   twitter: yungpanko
   google:
