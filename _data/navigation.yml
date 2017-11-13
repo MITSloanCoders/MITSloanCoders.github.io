@@ -3,29 +3,33 @@
 - title: Home
   url: /
   excerpt: "See the latest posts from the MIT Sloan Coders Club"
-  image: 'sloan-logo-reverse.png'
-
-- title: Sign Up
-  url: /signup/
-  excerpt: "Sign up for Sloan Coders Club"
-  image: 'sloan-logo-reverse.png'
-
-- title: Calendar
-  url: /calendar/
-  excerpt: "See our scheduled events"
-  image: 'sloan-logo-reverse.png'
+  # image: 'sloan-logo-reverse.png'
+#
+# - title: Sign Up
+#   url: /signup/
+#   excerpt: "Sign up for Sloan Coders Club"
+#   # image: 'sloan-logo-reverse.png'
+#
+# - title: Calendar
+#   url: /calendar/
+#   excerpt: "See our scheduled events"
+#   # image: 'sloan-logo-reverse.png'
 
 - title: Resources
   url: /resources/
   excerpt: "Coding resources and links"
-  image: 'sloan-logo-reverse.png'
+  # image: 'sloan-logo-reverse.png'
 
 - title: Leadership
   url: /leadership/
   excerpt: "Current Coders Club Leadership"
-  image: 'sloan-logo-reverse.png'
+  # image: 'sloan-logo-reverse.png'
 
 - title: Blog
   url: /blog/
   excerpt: "See all Sloan Coders Club Posts"
-  image: 'sloan-logo-reverse.png'
+  # image: 'sloan-logo-reverse.png'
+
+- title: Contact
+  url: /contact/
+  excerpt: "Contact Sloan Coders"

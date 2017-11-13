@@ -3,11 +3,11 @@
 - title: Home
   url: /
 
-- title: Sign Up
-  url: /signup/
-
-- title: Calendar
-  url: /calendar/
+# - title: Sign Up
+#   url: /signup/
+#
+# - title: Calendar
+#   url: /calendar/
 
 - title: Resources
   url: /resources/
@@ -17,3 +17,6 @@
 
 - title: Blog
   url: /blog/
+
+- title: Contact
+  url: /contact/

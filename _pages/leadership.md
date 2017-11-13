@@ -11,3 +11,17 @@ Jared is a joint MBA/MPP candidate at MIT Sloan and Harvard Kennedy School. He s
 
 Adam is currently an MBA candidate at the MIT Sloan School of Management. Previously,
 he was tasked with running legal and financial strategy at US Grid Company, an energy start-up focused on upgrading the electrical distribution grid to a more reliable, resilient and secure energy delivery system. Prior to joining US Grid, Adam was a member of Kaminski Global Advisers -- a specialist financial and strategic advisor to energy and financial sector clients -- serving on the firm’s execution and syndication management teams focused on project finance, debt structuring and financial services. Adam earned his undergraduate degree in finance from NYU Stern and a J.D. from Fordham School of Law.
+
+### Camilla Korder Fort
+
+### Vivian Graves
+
+### Sean Derrow
+
+### Feroze Shah
+
+### Emily McLaughlin
+
+### Addy Jeet
+
+### Tim Reed
