@@ -18,6 +18,8 @@ he was tasked with running legal and financial strategy at US Grid Company, an e
 
 ### Sean Derrow
 
+Sean is currently an MBA candidate at MIT Sloan. Previously, he was a Senior Associate Consultant at Bain & Company in their Boston office. While there, he worked with retail, consumer goods, and industrials companies on post-merger integrations, operational improvement, and growth strategy. Additionally, he worked exclusively in Bain's Private Equity Group for six months performing due diligences in several industries including genetic sequencing, retail furniture, and aerospace & defense. Sean has spent most of his coding time in Python and MATLAB, but is excited to be learning Ruby and Javascript at the moment. Sean earned his undergraduate degree in Engineering Sciences from Dartmouth College.
+
 ### Feroze Shah
 
 ### Emily McLaughlin
