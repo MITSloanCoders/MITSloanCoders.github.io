@@ -24,6 +24,8 @@ Sean is currently an MBA candidate at MIT Sloan. Previously, he was a Senior Ass
 
 ### Emily McLaughlin
 
-### Addy Jeet
+###  <a href='https://www.linkedin.com/in/addyjeet/'>Addy Jeet</a>
+
+Addy is a first-year MBA student at MIT Sloan. Prior to coming to Sloan, Addy worked at Google in New York, where he was part of YouTube Music’s Product Management team (internally his role title was Product Specialist). He led YouTube’s Radio and Charts data sharing projects. His most recent project prior to leaving Google involved working with Nielsen to ensure that YouTube data was contributing to the Billboard music charts. Prior to working at Google, Addy was a Strategy Consultant at PwC's Emerging Technology consulting team, and worked on large scale technology transformation projects across various industries. Addy attended Carnegie Mellon University in Pittsburgh PA, where he received a B.S. in Information Systems. Addy is a passionate sports fan and enjoys watching and playing soccer in his free time. 
 
 ### Tim Reed
