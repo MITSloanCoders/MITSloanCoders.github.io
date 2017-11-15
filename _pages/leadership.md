@@ -24,6 +24,8 @@ Sean is currently an MBA candidate at MIT Sloan. Previously, he was a Senior Ass
 
 ### Emily McLaughlin
 
+Emily is currently an MBA candidate at the MIT Sloan School of Management. Previously, she worked as a Product Manager in the Massachusetts State Treasury and launched three high-impact financial education websites for Massachusetts citizens. Prior to that, she worked in the U.S. House of Representatives and on political campaigns in communications and organizing roles. Emily earned her undergraduate degree in Political Science and English Literature from Brown University.
+
 ### Addy Jeet
 
 ### Tim Reed
