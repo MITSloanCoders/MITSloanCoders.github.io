@@ -32,9 +32,9 @@ collections:
     permalink: /:path
 
 # Site owner
-owner:
+owner: MIT Sloan Coders Club
   name:
-  email:
+  email: sloancoders@mit.edu
   twitter:
   google:
     ad-client:
