@@ -8,10 +8,11 @@ tags:
 share: false
 image:
  feature:
- teaser: 'codeswitch_flyer.png'
- thumb: 'codeswitch_flyer.png'
+ teaser: 'codeswitch_short.png'
+ thumb: 'codeswitch_short.png'
 ---
 
-![](/images/codeswitch_flyer.png)
+<a href='http://cglink.me/r372269'>![](/images/codeswitch_flyer.png)</a>
+
 
 <a href='http://cglink.me/r372269'>Click here to RSVP</a>
